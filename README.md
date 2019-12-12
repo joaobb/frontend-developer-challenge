@@ -10,7 +10,7 @@ Preparamos um teste que abordará seus conhecimentos em **HTML**, **CSS** e **Ja
 
 ## Sobre o desafio
 
-O desafio consiste no *layout* de uma *landing page* com uma grade de produtos e um formulário de *newsletter*. Seu principal objetivo é transformar este *layout* em uma página funcional.
+O desafio consiste no desenvolvimento do *layout* de uma *landing page* com uma grade de produtos e um formulário de *newsletter*. Seu principal objetivo é transformar este *layout* em uma página funcional.
 
 **Link do layout**: https://xd.adobe.com/spec/aa1c5781-ecac-46c9-7032-b66139998404-dc2d/
 
@@ -63,7 +63,7 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
 
 > Your code will be better understood in English ;)
 
---
+---
 
 ## Critérios de avaliação
 - Commits significativos
@@ -76,7 +76,7 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
 
 - Boas práticas de programação
 
---
+---
 
 ## Não conseguiu fazer tudo?
 A sua forma de priorizar a entrega também vai ser considerada. Escreva no README.md o que você conseguiu e não conseguiu implementar, descrevendo porque você preferiu priorizar desta maneira.
