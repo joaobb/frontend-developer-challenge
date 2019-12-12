@@ -49,10 +49,11 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
 ---
 
 ## Dicas
+> Evite usar frameworks (react, vue, angular, bootstrap)
 
 > Crie uma estrutura de arquivos organizada para suas implementações
 
-> Construa o CSS de forma bem estruturada e em um arquivo separado.
+> Construa o CSS de forma bem estruturada e em um arquivo separado
 
 > Evite poluir o escopo global do Javascript
 
@@ -61,6 +62,21 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
 > Seu README.md deve conter as instruções necessárias para qualquer pessoa fazer seu projeto funcionar
 
 > Your code will be better understood in English ;)
+
+--
+
+## Critérios de avaliação
+- Commits significativos
+
+- Arquitetura e organização do sistema
+
+- Conhecimento de responsividade
+
+- Modularidade e reusabilidade
+
+- Boas práticas de programação
+
+--
 
 ## Não conseguiu fazer tudo?
 A sua forma de priorizar a entrega também vai ser considerada. Escreva no README.md o que você conseguiu e não conseguiu implementar, descrevendo porque você preferiu priorizar desta maneira.
