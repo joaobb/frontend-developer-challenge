@@ -37,7 +37,7 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
 ## Instruções
 
 - Faça *commits* ao longo do seu desenvolvimento, isso nos ajudará a entender sua linha de raciocínio ;)
-- Substitua este **README.md** por outro que contenha as informações de *setup* e a descrição do seu projeto;
+- Faça **README.md** que contenha as informações de *setup* e a descrição do seu projeto;
 - Suba um *live preview* do seu desafio em um dos provedores a seguir, isso nos ajudará a testar sua implementação:
     - **[Now](https://zeit.co/now)**
     - **[Heroku](https://www.heroku.com)**
