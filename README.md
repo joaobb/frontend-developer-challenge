@@ -36,7 +36,6 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
 
 ## Instruções
 
-- Faça um **[fork](https://help.github.com/en/articles/fork-a-repo)** deste repositório e crie uma branch com o seu nome (ex: `nome-sobrenome`) que irá conter o código do seu desafio;
 - Faça *commits* ao longo do seu desenvolvimento, isso nos ajudará a entender sua linha de raciocínio ;)
 - Substitua este **README.md** por outro que contenha as informações de *setup* e a descrição do seu projeto;
 - Suba um *live preview* do seu desafio em um dos provedores a seguir, isso nos ajudará a testar sua implementação:
@@ -44,7 +43,7 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
     - **[Heroku](https://www.heroku.com)**
     - **[Netifly](https://www.netlify.com/)**
     - Qualquer outro semelhante
-- Assim que concluir o seu desafio, abra um **[pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)** para o [repositório do desafio](https://github.com/iurykrieger/frontend-developer-challenge) com suas alterações e com o link do *live preview* na descrição;
+- Assim que concluir o seu desafio, nos envie o link do seu repositório com o seu desagio.
 
 ---
 
