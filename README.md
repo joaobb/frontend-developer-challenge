@@ -43,7 +43,7 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
     - **[Heroku](https://www.heroku.com)**
     - **[Netifly](https://www.netlify.com/)**
     - Qualquer outro semelhante
-- Assim que concluir o seu desafio, nos envie o link do seu repositório com o seu desagio.
+- Assim que concluir o seu desafio, nos envie o link do seu repositório com o seu desafio.
 
 ---
 
