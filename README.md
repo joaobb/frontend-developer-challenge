@@ -36,6 +36,7 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
 
 ## Instruções
 
+- Crie um repositório no seu github que irá conter o desenvolvimento do seu desafio.
 - Faça *commits* ao longo do seu desenvolvimento, isso nos ajudará a entender sua linha de raciocínio ;)
 - Faça **README.md** que contenha as informações de *setup* e a descrição do seu projeto;
 - Suba um *live preview* do seu desafio em um dos provedores a seguir, isso nos ajudará a testar sua implementação:
@@ -43,7 +44,7 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
     - **[Heroku](https://www.heroku.com)**
     - **[Netifly](https://www.netlify.com/)**
     - Qualquer outro semelhante
-- Assim que concluir o seu desafio, nos envie o link do seu repositório com o seu desafio.
+- Assim que concluir o seu desafio, nos envie o **link do seu repositório contendo o resultado do seu desafio** e o link do ***live preview*** para que possamos testá-lo.
 
 ---
 
@@ -82,6 +83,6 @@ A sua forma de priorizar a entrega também vai ser considerada. Escreva no READM
 
 ---
 
-Em caso de dúvidas, [abra uma issue](https://github.com/chaordic/frontend-intern-challenge/issues).
+Em caso de dúvidas, [abra uma issue](https://github.com/chaordic/frontend-developer-challenge/issues).
 
 **Boa sorte =]**
