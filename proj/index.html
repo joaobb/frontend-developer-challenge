@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linx</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header id="page_header">
+        <section class="titles">
+            <h3>uma seleção de produtos</h3>
+            <h2>especial pra você</h2>
+            <h5>Todos os produtos desta lista foram selecionados a partir da sua navegação. Aproveite!</h5>
+        </section>
+
+        <section>
+            <button type="button">Conheça a Linx</button>
+            <button type="button">Ajude o algoritimo</button>
+            <button type="button">Seus produtos</button>
+            <button type="button">Compartilhe</button>
+        </section>
+    </header>
+
+    <main>
+        <header>Sua seleção especial</header>
+        <div id="products_container"></div>
+        <button type="button" id="see_more_bt">Ainda mais produtos aqui!</button>
+    </main>
+
+    <form action="#" method="POST" onsubmit="return false" id="share_form"">
+            <legend>Compartilhe a novidade</legend>
+            Quer que seus amigos também ganhem a lista personalizada deles? Preencha agora!
+
+            <div id="share_inputs">
+                <label>
+                    Nome do seu amigo:
+                    <input type="text" id="friends_name">
+                </label>
+                <label>
+                    Email:
+                    <input type="email" id="friends_email">
+                </label>
+            </div>
+
+            <button type="submit" class="submit_bt">Enviar agora</button>
+    </form>
+    <script src="scripts.js"></script>
+
+    <footer>
+        Testando suas habilidades em HTML, CSS e JS.<br>
+        Linx Impulse<br>
+        2019<br>
+    </footer>
+</body>
+
+</html>

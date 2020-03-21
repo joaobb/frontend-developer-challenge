@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button {
+    cursor: pointer;
+}
+
+#page_header {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    width: 100%;
+    height: 320px;
+
+    background-color: #707070;
+    color: #ffffff;
+
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+
+}
+
+#page_header .titles {
+    margin: 70px 0 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    justify-content: center;
+}
+
+#page_header h2 {
+    font: Bold 40px/49px Helvetica Neue,Helvetica;
+}
+
+#page_header h3 {
+    font: Normal 20px/24px Helvetica Neue,Helvetica;
+}
+
+#page_header h5 {
+    font: Normal 14px/16px Helvetica Neue,Helvetica;
+    margin-top: 24px;
+}
+
+#page_header button {
+    width: 160px;
+    height: 40px;
+    
+    margin: 0 20px;
+    
+    box-shadow: 0px 1px 6px #00000029;
+    border-radius: 4px;
+    border: 1px solid #707070;
+
+    background-color: #ffffff;
+    color: #888888;
+
+    font: Normal 14px/16px Helvetica Neue,Helvetica;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 930px;
+
+    align-items: center;
+}
+
+main header {
+    margin-top: 48.67px;
+    font: Bold 18px/16px Helvetica Neue, Helvetica;
+    color: #888888
+}
+
+#products_container {
+    width: 100%;
+    margin: 0 auto;
+
+    display: grid;
+    grid-gap: 30px 40px;
+    justify-items: center;
+    
+    margin: 50px 0 43px;
+}
+
+@media (min-width: 600px) {
+    #products_container { grid-template-columns: repeat(2, 1fr); }
+}
+@media (min-width: 900px) {
+    #products_container { grid-template-columns: repeat(3, 1fr); }
+}
+@media (min-width: 1100px) {
+    #products_container { grid-template-columns: repeat(4, 1fr); }
+}
+
+.product {
+    color: #888888;
+    text-decoration: none;
+    height: 350px;
+    width: 200px;
+}
+
+.product_image {
+    height: 150px;
+    width: 200px;
+
+    margin-bottom: 14px;
+}
+
+.product_information, .product_price{
+    display: flex;
+    flex-direction: column;
+}
+
+.product_description, .original_price, .installment_price {
+    font: Normal 12px/16px Helvetica Neue, Helvetica;
+}
+
+.original_price {
+    margin-top: 6 px;
+}
+.product_name {
+    font: Normal 14px/16px  Helvetica Neue, Helvetica;
+    margin-bottom: 10px;
+}
+.current_price {
+    margin: 6px 0 7px;
+    font: Bold 16px/16px  Helvetica Neue, Helvetica;
+}
+
+.buy_product_bt, #see_more_bt, .submit_bt{
+    width: 100%;
+    height: 30px;
+    
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: 1px solid #707070;
+    margin-top: 10px;
+    
+    font: Normal 16px/16px  Helvetica Neue, Helvetica;
+    color: #888888
+}
+
+#see_more_bt, .submit_bt {
+    width: 260px;
+    height: 40px;
+}
+
+#share_form {
+    width: 720px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border: none;
+    margin: 164px 0 142.63px;
+
+    font: Normal 14px/16px Helvetica Neue, Helvetica;
+    color: #888888;
+}
+
+#share_form legend { 
+    font: Bold 18px/16px Helvetica Neue, Helvetica;
+    margin-bottom: 34px;
+}
+
+
+#share_inputs {
+    display: flex;
+}
+
+#share_inputs label {
+    display: flex;
+    flex-direction: column;
+}
+
+#friends_name {
+    margin-right: 40px;
+}
+
+#share_inputs {
+    margin: 40px 0 50px;
+}
+
+#share_inputs input {
+    width: 320px;
+    height: 30px;
+
+    margin-top: 14px;
+    border: 1px solid #707070;
+
+    padding: 0 10px;
+    
+    font: Normal 14px/16px Helvetica Neue, Helvetica;
+    color: #555555;
+}
+
+
+footer {
+    width: 100%;
+    height: 201px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    background-color: #707070;
+    font: Normal 12px/18px Helvetica Neue, Helvetica;
+    color: #ffffff;
+}
