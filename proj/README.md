@@ -1,3 +1,6 @@
+## Deploy
+Atualmente hosteado [aqui](https://linx-frontend-developer-challenge-3z820s70s.now.sh/).
+
 ## Motivação
 Esta página foi realizada para treinamento de tecnologias como HTML, CSS e JS.
 
